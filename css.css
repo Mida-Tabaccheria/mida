@@ -5,7 +5,7 @@
   background-color: #fefefe;
 }
 
-p, a{
+p, a, li{
   font-size: 18px;
 }
 
@@ -165,4 +165,15 @@ ul{
   .anchor-arrow{
     display: none;
   }
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #D7D84D;
+  color: black;
+}
+footer>p{
+  font-size: 10px;
+  margin: 2px 0;
+  background-color: #D7D84D;
 }
