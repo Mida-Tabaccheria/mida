@@ -1,4 +1,4 @@
 # mida
 Mida tabaccheria
 
-nuovo push
+Sito vetrina per il sito di Mida Tabaccheria.
